@@ -10,7 +10,7 @@ dependencies {
   // branch sdk
   compile 'io.branch.sdk.android:library:2+'
   // branch app indexing
-  compile 'com.google.android.gms:play-services-appindexing:9.+'
+  compile 'com.google.android.gms:play-services-appindexing:10.2+'
   // branch chrome tabs for better matching
   compile 'com.android.support:customtabs:23.3.0'
   // branch gaid for better device matching (TODO: turned off because it conflicts with other plugins)
